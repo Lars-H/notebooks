@@ -2,10 +2,9 @@ name: notebooks-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3
   - numpy
-  - dot
-  - graphviz
+  - jupyterlab=0.35.1
   - pip
   - pip:
     - pandas
