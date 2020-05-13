@@ -4,6 +4,8 @@ channels:
 dependencies:
   - python
   - numpy
+  - dot
+  - graphviz
   - pip
   - pip:
     - pandas
