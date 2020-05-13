@@ -6,9 +6,10 @@ dependencies:
   - numpy
   - jupyterlab=0.35.1
   - pip
+  - python-graphviz
+  - graphviz
   - pip:
     - pandas
     - matplotlib
     - sklearn
     - seaborn
-    - graphviz
