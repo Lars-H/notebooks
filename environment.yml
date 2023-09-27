@@ -2,7 +2,7 @@ name: notebooks-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3
+  - python=3.10
   - numpy
   - jupyterlab=0.35.1
   - pip
