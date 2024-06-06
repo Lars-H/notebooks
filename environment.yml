@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - numpy
-  - jupyterlab=0.35.1
+  - jupyterlab
   - pip
   - python-graphviz
   - graphviz
